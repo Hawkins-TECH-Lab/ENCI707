@@ -1,0 +1,7 @@
+python-dotenv
+statsmodels
+matplotlib
+matplotlib-inline
+biogeme
+scipy
+seaborn
