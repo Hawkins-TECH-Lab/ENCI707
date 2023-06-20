@@ -1,6 +1,6 @@
 # CIVE_461_Tutorial
 
-## Setup for `github codespaces`
+## Setup for [Github codespaces](https://github.com/codespaces)
 1. Go to github.com and login to your account or create a new account.
 1. Go to tutorial repository [link](https://github.com/UNL-Hawkins-Lab/CIVE_461_Tutorial)
 1. Click on the green button that says `Code` and select `codespaces` from the dropdown menu.
@@ -19,7 +19,3 @@ OR
 
 
 
-## Note:
-1. `my_hh_trip_data.csv` is very big file and was uploaded using `git lfs` (large file storage). 
-    1. When you follow the steps to setup `github codespaces` you don't need to worry about this.
-    2. If you are using your own computer, you need to install `git lfs` to properly download all the files. download the     git lfs` from [here](https://git-lfs.github.com/).
