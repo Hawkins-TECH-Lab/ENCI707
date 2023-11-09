@@ -5,3 +5,4 @@ matplotlib-inline
 biogeme
 scipy
 seaborn
+pyarrow
